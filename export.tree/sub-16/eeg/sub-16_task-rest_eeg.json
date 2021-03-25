@@ -1,0 +1,22 @@
+{
+    "InstitutionName": "University of Geneva",
+    "InstitutionalDepartmentName":	"Department of Neuroscience",
+    "PowerLineFrequency":	50,
+    "Manufacturer":    "Brain product",
+    "ManufacturersModelName":	"Brain Amp",
+    "SoftwareVersions":	"Vision reorder 2",
+    "EEGGround":	"FPz",
+    "EEGReference":	"FCz",
+    "EEGChannelCount":	64,
+    "ECGChannelCount":	2,
+    "EMGChannelCount":	1,
+    "EOGChannelCount":	2,
+    "TaskDescription":	"Subjects rested in the MRI and try to fall asleep. EEG was recorded simultaneously while fMRI data were acquired. MRI and balistocardiogram artefacts were removed",
+    "TaskName":	"rest",
+    "RecordingType":	"continuous",
+    "SamplingFrequency":	500,
+    "ECGChannelCount":	0,
+    "EMGChannelCount":	0,
+    "SoftwareFilters":	"n/a",
+    "CapManufacturer":	"Easycap"
+}
