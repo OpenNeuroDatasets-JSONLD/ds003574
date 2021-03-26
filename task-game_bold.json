@@ -47,5 +47,5 @@
   "SequenceVariant": "SK",
   "SliceThickness": 3.2,
   "SpacingBetweenSlices": 3.84,
-  "TaskName": "TODO: full task name for game",
+  "TaskName": "Face-Maze game",
   "TotalReadoutTime": 0.0226799}
