@@ -49,5 +49,5 @@
   "SeriesDescription": "UB50_resting_state",
   "SliceThickness": 3.2,
   "SpacingBetweenSlices": 3.84,
-  "TaskName": "TODO: full task name for rest",
+  "TaskName": "Rest during sleep with simultaneous EEG",
   "TotalReadoutTime": 0.0226799}
