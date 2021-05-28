@@ -1,4 +1,4 @@
-participant_id	group_won_game	sub_reach_n3	age	sex	memory_face_game	memory_face_game_Z_score	memory_maze_game	memory_maze_game_Z_score						
+participant_id	group_won_game	sub_reach_n3	age	sex	memory_face_game	memory_face_game_Z_score	memory_maze_game	memory_maze_game_Z_score
 sub-01	face	yes	21	m	5.0	-2.028	30	-0.892
 sub-02	face	yes	20	f	14.0	-0.187	32	-1.042
 sub-03	face	yes	22	f	14.5	-0.085	19	-0.067
