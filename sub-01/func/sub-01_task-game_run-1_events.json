@@ -1,17 +1,13 @@
 {
     "onset": {
-        "LongName": "onset",
         "Description": "Onset of the event measured from the beginning of the acquisition of the first volume in the corresponding task imaging data file at wake",
-        "Units": "Secs",
-        "Levels": "continuous"
+        "Units": "Secs"
     },
     "duration": {
-        "LongName": "duration",
         "Description": "Duration of the event measured from onset",
         "Units": "Secs"
     },
     "trial_Type": {
-        "LongName": "trial_type",
         "Description": "Indicator of type of blocks that was presented",
         "Levels": {
             "prepa_face": "preparation phase of the face game",
