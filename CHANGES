@@ -1,3 +1,5 @@
+1.0.2 2021-06-07
+  - Onsets are now expressed in secs and not in scans
 1.0.1 2021-06-02
   - We changed the name of the subjects in the participant.tsv file and we removed the empty columns in the event.tsv files
 0.0.1  Initial data acquired
